@@ -1,7 +1,7 @@
 # Projekt na zajęcia z przedmiotu Grafika komputerowa i wizualizacja
-Dokumentacja projektu – Wodny świat
-Przedmiot: Grafika komputerowa i wizualizacja 2017/2018
-Autorzy: Wiktor Tylman, Kamila Dymek
+Dokumentacja projektu – Wodny świat  
+Przedmiot: Grafika komputerowa i wizualizacja 2017/2018  
+Autorzy: Wiktor Tylman, Kamila Dymek  
 ### Technologia: OpenGL
 ### Język: C ++
 ### Sterowanie:
