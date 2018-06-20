@@ -5,13 +5,13 @@ Autorzy: Wiktor Tylman, Kamila Dymek
 ### Technologia: OpenGL
 ### Język: C ++
 ### Sterowanie:
-W – ruch do przodu
-S – ruch w tył
-A – ruch w lewo
-D – ruch w prawo
-Z – obrót w lewo
-X – obrót w prawo
-Ruch myszką - obrót kamery
+W – ruch do przodu  
+S – ruch w tył  
+A – ruch w lewo  
+D – ruch w prawo  
+Z – obrót w lewo  
+X – obrót w prawo  
+Ruch myszką - obrót kamery  
 ### Funkcjonalności:
 * Ruch ryby wokół różnych punktów
 * Kamera podąża za rybą
